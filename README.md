@@ -49,4 +49,4 @@ Do you want to play again? (yes/no): yes
 [Click Here](https://github.com/your-username/rock-paper-scissors-ai)
 
 ## 🏆 Credits
-Developed by **[Your Name]**
+Developed by SHARAD KRISHNA SINGH 
